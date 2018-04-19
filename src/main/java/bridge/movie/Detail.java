@@ -1,4 +1,4 @@
-package bridge.Movie;
+package bridge.movie;
 
 public class Detail {
 	private String label;
