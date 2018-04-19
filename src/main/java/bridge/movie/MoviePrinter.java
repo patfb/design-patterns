@@ -1,4 +1,4 @@
-package bridge.Movie;
+package bridge.movie;
 
 import java.util.ArrayList;
 import java.util.List;
