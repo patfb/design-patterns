@@ -16,11 +16,11 @@ public class BridgeMovieDemo {
 		
 		System.out.println(printedMaterial);
 		
-		/*Formatter htmlFormatter = new HtmlFormatter();
+		Formatter htmlFormatter = new HtmlFormatter();
 		
 		String htmlMaterial = moviePrinter.print(htmlFormatter);
 		
-		System.out.println(htmlMaterial);*/
+		System.out.println(htmlMaterial);
 	}
 
 }
